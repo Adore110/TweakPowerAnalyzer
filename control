@@ -1,0 +1,8 @@
+Package: com.test.tweakpoweranalyzer
+Name: TweakPowerAnalyzer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test tool
+Maintainer: Test
+Author: Test
+Section: Utilities
